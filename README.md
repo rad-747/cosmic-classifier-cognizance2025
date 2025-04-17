@@ -46,15 +46,6 @@ Also included:
 - **Macro F1-Score:** `0.89`
 - High generalization across all 10 classes (precision and recall mostly above 85%)
 
-## Files Included
-
-| File | Description |
-|------|-------------|
-| `Cosmicclassifier.ipynb` | Main Jupyter Notebook |
-| `6d3384ed-5442-4ec4-a475-4815c8f64860.png` | Banner image from Cognizance 2025 |
-| `cosmicclassifierTest_predictions.csv` | Predictions on final test set |
-| `requirements.txt` | (Recommended) Python packages list |
-
 ##  Installation
 
 ```bash
