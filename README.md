@@ -23,7 +23,7 @@ Also included:
 - Missing value flags for all numeric columns
 - String conversion for categorical variables
 
-## 🔍 Model Details
+## Model Details
 
 - **Model Used:** `CatBoostClassifier`
 - **Hyperparameters:**  
